@@ -8,9 +8,4 @@ Para meus projetos de programação, eu geralmente só envio para o Github quand
 💬 Pergunte-me sobre a significância das borboletas.
 ⚡ Curiosidade: Minha primeira linha de código não foi "Olá, mundo!"
 
-<p align="center">
-  <img align="center" width="100" src="assets/logo.png" />
 
-  <h1 align="center">Github Readme Quotes</h1>
-  <h3 align="center">Developer Quotes for your Github Readme.</h3>
-</p>
