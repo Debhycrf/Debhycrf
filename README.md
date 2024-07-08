@@ -8,4 +8,4 @@ Para meus projetos de programação, eu geralmente só envio para o Github quand
 💬 Pergunte-me sobre a significância das borboletas.
 ⚡ Curiosidade: Minha primeira linha de código não foi "Olá, mundo!"
 
-
+<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
