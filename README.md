@@ -10,6 +10,6 @@ Para meus projetos de programação, eu geralmente só envio para o Github quand
 
 
 **Social Media:**
-
+![image](https://github.com/Debhycrf/Debhycrf/assets/175043167/3fcdd657-d731-4793-b6f9-9298fb55eb0e)
 
 [![Instagram](icons/instagram.png)](https://www.instagram.com/debhycrf?igsh=NGUxMWd3bDNkc205.web/)
