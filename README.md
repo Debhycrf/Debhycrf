@@ -7,8 +7,8 @@ Para meus projetos de programação, eu geralmente só envio para o Github quand
 😀 Gosto de ler, ouvir músicas, estudar e ficar sozinha no meu tempo livre.
 💬 Pergunte-me sobre a significância das borboletas.
 ⚡ Curiosidade: Minha primeira linha de código não foi "Olá, mundo!"
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
 <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
