@@ -5,9 +5,7 @@ Para meus projetos de programação, eu geralmente só envio para o Github quand
 
 🌱 Atualmente estou aprendendo HTML, CSS e Python.
 🔭 No momento estou trabalhando na criação de páginas da web e aprendendo a programar.
-😀 Gosto de ler, ouvir músicas, estudar e ficar sozinha no meu tempo livre.
-💬 Pergunte-me sobre a significância das borboletas.
-⚡ Curiosidade: Minha primeira linha de código não foi "Olá, mundo!"
+
 
 
 <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
